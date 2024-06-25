@@ -52,6 +52,8 @@ Player Alice's turn. Which box? : 1
 ...
 ```
 
+---
+
 ## XO Game.py
 
 ### Description
@@ -100,6 +102,8 @@ __|___|__
 Player Alice's turn. Pick your spot or press q to quit: 1
 ...
 ```
+
+---
 
 ## Repository Structure
 
